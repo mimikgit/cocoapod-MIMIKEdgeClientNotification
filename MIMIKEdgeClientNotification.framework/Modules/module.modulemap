@@ -1,0 +1,4 @@
+framework module MIMIKEdgeClientNotification {
+  header "MIMIKEdgeClientNotification-Swift.h"
+  requires objc
+}
