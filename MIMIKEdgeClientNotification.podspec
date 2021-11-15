@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.summary      = "mimik notification service library"
 
   s.description  = <<-DESC
-   MIMIKEdgeClientNotification cocoapod is a Cocopods.org distributed framework that provides APIs to abstract away the complexities of interacting with mimik notification services.
+   MIMIKEdgeClientNotification cocoapod is a Cocopods.org distributed framework that provides APIs to abstract away the complexities of interacting with mimik notification service.
   DESC
 
   s.homepage     = "https://github.com/mimikgit/cocoapod-MIMIKEdgeClientNotification"
