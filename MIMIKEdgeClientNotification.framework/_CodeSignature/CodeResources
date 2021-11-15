@@ -6,35 +6,35 @@
 	<dict>
 		<key>Headers/MIMIKEdgeClientNotification-Swift.h</key>
 		<data>
-		2UE1eCeP9K+HjNKgkG6JWL7FnVc=
+		gz09K7nopGjx6VPwIhQpOIMWwos=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Hp9oPMmhpH8iM+ZFJmmRJ9b6I5w=
+		xMn4PXL9sLbU96eK/c/wU6hJeBQ=
 		</data>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		jDta1cRNJXWHGsJ7FlMnQ+KHHMc=
+		TnHP0kz2QlIk8V8e6qmrJagnxvg=
 		</data>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		jDta1cRNJXWHGsJ7FlMnQ+KHHMc=
+		TnHP0kz2QlIk8V8e6qmrJagnxvg=
 		</data>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		tfphYf7SwySqGAWXrWky0fUUyMM=
+		mEe1JTbSiD1JZqXDPMXUI2O8vWg=
 		</data>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Vmk7deuXTKUBEgU+serX5BjjEUI=
+		nlR4AtP+XO601BI1k8Hjofb/Qic=
 		</data>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		tfphYf7SwySqGAWXrWky0fUUyMM=
+		mEe1JTbSiD1JZqXDPMXUI2O8vWg=
 		</data>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Vmk7deuXTKUBEgU+serX5BjjEUI=
+		nlR4AtP+XO601BI1k8Hjofb/Qic=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,49 +47,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vWbou0jrdAHiVhGq83XVIkXbjxu6NO2jPmReHRIES8o=
+			f8WKUkYpxiXIgejDVEHQzv5ssg7hLsy3YucMdVRiHfo=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pryY9w+DDZTewoLsG5SrCb2l09oITYYTwBpZ+iRrgrE=
+			OEYLmFa3OZ+pG5Duc6S2Sjzcn35pXNU8vUK4uH7Jcgc=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pryY9w+DDZTewoLsG5SrCb2l09oITYYTwBpZ+iRrgrE=
+			OEYLmFa3OZ+pG5Duc6S2Sjzcn35pXNU8vUK4uH7Jcgc=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HC97sS5U2LBApVf3/Z2fpi5BfhAFN9K9NHar8C2KEIg=
+			Bf60czK1KqEhOLeidrNnBm5kuZDTUD32tjnZ8NMVW5c=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ttuJ7Ozs8OL6dVYRG2Lkwe0E85LVhXAMcTcs9EPkWqU=
+			+5AKXuDFDqo5PXBff6l2ZP+fX+3fRkD1AsDI+yaESM0=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HC97sS5U2LBApVf3/Z2fpi5BfhAFN9K9NHar8C2KEIg=
+			Bf60czK1KqEhOLeidrNnBm5kuZDTUD32tjnZ8NMVW5c=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ttuJ7Ozs8OL6dVYRG2Lkwe0E85LVhXAMcTcs9EPkWqU=
+			+5AKXuDFDqo5PXBff6l2ZP+fX+3fRkD1AsDI+yaESM0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
