@@ -6,27 +6,27 @@
 	<dict>
 		<key>Headers/MIMIKEdgeClientNotification-Swift.h</key>
 		<data>
-		gz09K7nopGjx6VPwIhQpOIMWwos=
+		2UE1eCeP9K+HjNKgkG6JWL7FnVc=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		o9w1Yn6SbskqZ9jyXB1yzUH00AA=
+		1EB8WwgcXARhWatiuxhWkLe/XOk=
 		</data>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		mEe1JTbSiD1JZqXDPMXUI2O8vWg=
+		tfphYf7SwySqGAWXrWky0fUUyMM=
 		</data>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		+GR7+bc4MEbIdEkAj4j0s6kb4q8=
+		xFR6eEmITpBU+gFArZDTvrP2gFg=
 		</data>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		mEe1JTbSiD1JZqXDPMXUI2O8vWg=
+		tfphYf7SwySqGAWXrWky0fUUyMM=
 		</data>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		+GR7+bc4MEbIdEkAj4j0s6kb4q8=
+		xFR6eEmITpBU+gFArZDTvrP2gFg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -39,35 +39,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f8WKUkYpxiXIgejDVEHQzv5ssg7hLsy3YucMdVRiHfo=
+			vWbou0jrdAHiVhGq83XVIkXbjxu6NO2jPmReHRIES8o=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bf60czK1KqEhOLeidrNnBm5kuZDTUD32tjnZ8NMVW5c=
+			HC97sS5U2LBApVf3/Z2fpi5BfhAFN9K9NHar8C2KEIg=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FA6AovANfa3vZBDUuT483diMWPDGwaxkryySGtABQj0=
+			qk1YfQIQxwrnrQ2HwOSb9awI5zKVmdrre4aGIU+5g88=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bf60czK1KqEhOLeidrNnBm5kuZDTUD32tjnZ8NMVW5c=
+			HC97sS5U2LBApVf3/Z2fpi5BfhAFN9K9NHar8C2KEIg=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FA6AovANfa3vZBDUuT483diMWPDGwaxkryySGtABQj0=
+			qk1YfQIQxwrnrQ2HwOSb9awI5zKVmdrre4aGIU+5g88=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
