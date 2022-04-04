@@ -6,27 +6,19 @@
 	<dict>
 		<key>Headers/MIMIKEdgeClientNotification-Swift.h</key>
 		<data>
-		V193wrAuHZj9YbE/dBV+mL+/yuQ=
+		ezfMCo9Lk8a/qbSaWo0coPoV5vE=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ig6Wlx9zpJ33MwuB/GDUpElV+sE=
+		d/U9MJODjW69dvR3ZU3kTAfDY6o=
 		</data>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		ld2/z29eW8xmr/pvh1Gtvvpj90Q=
+		YI4UoRuY4xnCNTGWaaAZROnYomM=
 		</data>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		xZUMSLan6zOiwYw5Bz7nu/VYUJU=
-		</data>
-		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		ld2/z29eW8xmr/pvh1Gtvvpj90Q=
-		</data>
-		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		xZUMSLan6zOiwYw5Bz7nu/VYUJU=
+		7Imb7mJ145vbSNNYe4haSDBS54M=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -39,35 +31,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yKJwTy2Sw+Q+F1vkzlreGvaGq/3qLvEW6RXdyJMfFKY=
+			DGoIUG1mp5T5KI3he3iBsD9YOmlLKzpJgTtpV8xwTJ4=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N/kyrmku2h59HeEJjZ8zoStQyGuJtKL6CgajFMnFh5k=
+			dNcxiDBu3JgboJS8vEzoPgY7DFHRZ15kI8SroHljg/c=
 			</data>
 		</dict>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IGGyWoizO3EWDisp0af5clFY2MI0zzVKm6cM/YOtlw8=
-			</data>
-		</dict>
-		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			N/kyrmku2h59HeEJjZ8zoStQyGuJtKL6CgajFMnFh5k=
-			</data>
-		</dict>
-		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IGGyWoizO3EWDisp0af5clFY2MI0zzVKm6cM/YOtlw8=
+			sp9Dm8ln8d2uxJoCuPuJ6P7GHaBigCAL8P/WgdhNCic=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
