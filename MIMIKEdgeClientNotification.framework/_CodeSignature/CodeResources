@@ -10,7 +10,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		d/U9MJODjW69dvR3ZU3kTAfDY6o=
+		+QqywAcamFr+rq1FAfB8uv+Xyvw=
 		</data>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/MIMIKEdgeClientNotification.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		7Imb7mJ145vbSNNYe4haSDBS54M=
+		fnscpUdXGUGypJKLcQ1B75OVTKg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -45,7 +45,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sp9Dm8ln8d2uxJoCuPuJ6P7GHaBigCAL8P/WgdhNCic=
+			IOQcZw7l/mdGUriO6pWpa2ASmb7SNv5rT+drTav94HY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
